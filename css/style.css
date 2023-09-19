@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "BarlowCondensed-Regular", sans-serif;
+  src: url("/assets/font/BarlowCondensed-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Bellefair-Regular", serif;
+  src: url("/assets/font/Bellefair-Regular.ttf");
+}
