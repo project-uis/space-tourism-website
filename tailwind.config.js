@@ -9,8 +9,8 @@ module.exports = {
         colorWhite: "#FFFFFF",
       },
       fontFamily: {
-        barlowCondensed: ["BarlowCondensed-Regular", "sans-serif"],
-        belleFair: ["Bellefair-Regular", "serif"],
+        barlowCondensed: ["Barlow Condensed", "sans-serif"],
+        belleFair: ["Bellefair", "serif"],
       },
     },
   },
